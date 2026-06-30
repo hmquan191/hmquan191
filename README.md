@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🎓 Hi there! I'm a 4th year student at the University of Science – HCMUS.<br>💻 Currently Co-founder of Lawzy, a startup in legal tech field. https://www.lawzy.vn/
+🎓 Hi there! I'm a 4th year student at the University of Science – HCMUS.<br>💻 Currently Co-founder of Lawzy, a startup in legal tech field: https://www.lawzy.vn/
 <br>📬 Feel free to reach out: hmquan191@gmail.com <br>
-🪄 I also create a bit of web content on my Threads account as a diary of a student learning Frontend Development: https://www.threads.com/@liam.quan_6 <br>
+🪄 I also create a bit of web content on my Threads account as a digital diary: https://www.threads.com/@liam.quan_6 <br>
 ✏️ My latest personal work (a landing page for my favorite Kpop group - Red Velvet): https://redvelvetlanding.vercel.app/ <br>
 # 💻 Tech Stack:
 

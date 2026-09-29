@@ -1,3 +1,5 @@
+![Rickroll](https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif)
+
 # 💫 About Me:
 
 🎓 Hi there! I'm a 4th year student at the University of Science – HCMUS.<br>💻 Currently Co-founder of Lawzy, a startup in legal tech field: https://www.lawzy.vn/

@@ -1,4 +1,6 @@
-![Rickroll](https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif)
+<!-- ![Rickroll](https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif) -->
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 # 💫 About Me:
 
